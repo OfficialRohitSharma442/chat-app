@@ -1,3 +1,12 @@
+# Go to app
+https://officialrohitsharma442.github.io/chat-app/
+###user 1
+userName = Rohit 
+Password = 1122
+###secound user
+userName = anish
+password = 1122
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
